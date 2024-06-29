@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "2349121056093"
 global.confirmcode = ""
 
 global.owner = [
@@ -21,7 +21,7 @@ global.owner = [
 global.suittag = ['254794597254'];
 global.prems = ['254794597254'];
 
-global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
+global.packname = 'thetvguy';
 global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
 global.wm = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
 global.igfg = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
@@ -53,7 +53,7 @@ global.mysticbot = 'https://github.com/jayden-official';
 global.waitt = '*[❗] 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waittt = '*[❗]𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waitttt = '*[❗]𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
-global.nomorown = '254794597254';
+global.nomorown = '2349121056093';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
